@@ -11,6 +11,8 @@
 		<StripSymbols>true</StripSymbols>
 		<InvariantGlobalization>true</InvariantGlobalization>
 		<IlcGenerateCompleteTypeMetadata>false</IlcGenerateCompleteTypeMetadata>
+		<ExportedMethods>true</ExportedMethods>
+		<NativeCodeEntryPointName>true</NativeCodeEntryPointName>
 	</PropertyGroup>
 
 	<ItemGroup>

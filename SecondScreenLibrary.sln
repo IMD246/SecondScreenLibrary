@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecondScreenLibrary", "SecondScreenLibrary\SecondScreenLibrary.csproj", "{F2065CDD-8232-460E-8C81-14EAB2627E60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SecondScreenLibrary", "SecondScreenLibrary\SecondScreenLibrary.csproj", "{F2065CDD-8232-460E-8C81-14EAB2627E60}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

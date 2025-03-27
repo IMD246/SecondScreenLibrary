@@ -1,5 +1,4 @@
 ﻿using System.Runtime.InteropServices;
-
 namespace SecondScreenLibrary
 {
     [StructLayout(LayoutKind.Sequential)]
